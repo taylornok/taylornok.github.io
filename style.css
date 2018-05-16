@@ -5,3 +5,10 @@ body {
 li {
     font-weight: bold;
 }
+hr {
+    border-style: dotted
+}
+image {
+    border-style: double;
+    -webkit-padding-start: 20px
+}
